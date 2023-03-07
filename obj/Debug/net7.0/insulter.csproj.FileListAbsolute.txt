@@ -1,0 +1,15 @@
+/Users/brandonherbison/workspace/csharp/insulter/bin/Debug/net7.0/insulter
+/Users/brandonherbison/workspace/csharp/insulter/bin/Debug/net7.0/insulter.deps.json
+/Users/brandonherbison/workspace/csharp/insulter/bin/Debug/net7.0/insulter.runtimeconfig.json
+/Users/brandonherbison/workspace/csharp/insulter/bin/Debug/net7.0/insulter.dll
+/Users/brandonherbison/workspace/csharp/insulter/bin/Debug/net7.0/insulter.pdb
+/Users/brandonherbison/workspace/csharp/insulter/obj/Debug/net7.0/insulter.csproj.AssemblyReference.cache
+/Users/brandonherbison/workspace/csharp/insulter/obj/Debug/net7.0/insulter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandonherbison/workspace/csharp/insulter/obj/Debug/net7.0/insulter.AssemblyInfoInputs.cache
+/Users/brandonherbison/workspace/csharp/insulter/obj/Debug/net7.0/insulter.AssemblyInfo.cs
+/Users/brandonherbison/workspace/csharp/insulter/obj/Debug/net7.0/insulter.csproj.CoreCompileInputs.cache
+/Users/brandonherbison/workspace/csharp/insulter/obj/Debug/net7.0/insulter.dll
+/Users/brandonherbison/workspace/csharp/insulter/obj/Debug/net7.0/refint/insulter.dll
+/Users/brandonherbison/workspace/csharp/insulter/obj/Debug/net7.0/insulter.pdb
+/Users/brandonherbison/workspace/csharp/insulter/obj/Debug/net7.0/insulter.genruntimeconfig.cache
+/Users/brandonherbison/workspace/csharp/insulter/obj/Debug/net7.0/ref/insulter.dll
